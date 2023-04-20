@@ -1,5 +1,5 @@
 # Block-MUSIC for BTT spectrum analysis
-##
+"Example.m" is a simple simulation case for Block-MUSIC.
 
 ## Cite
 please cite
